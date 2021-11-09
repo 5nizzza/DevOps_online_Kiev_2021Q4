@@ -1,0 +1,19 @@
+8620007 (HEAD -> main, origin/main, origin/HEAD) HEAD@{0}: checkout: moving from develop to main
+3a223d1 (origin/develop, develop) HEAD@{1}: commit (merge): add styles for css
+eb25721 (origin/images, images) HEAD@{2}: checkout: moving from styles to develop
+2a45f64 (origin/styles, styles) HEAD@{3}: checkout: moving from develop to styles
+eb25721 (origin/images, images) HEAD@{4}: merge images: Fast-forward
+b171a01 HEAD@{5}: checkout: moving from images to develop
+eb25721 (origin/images, images) HEAD@{6}: commit: add folder images
+36319b0 HEAD@{7}: checkout: moving from styles to images
+2a45f64 (origin/styles, styles) HEAD@{8}: commit: add styles for CV
+ac9c7bb HEAD@{9}: commit: add folder styles
+b171a01 HEAD@{10}: checkout: moving from develop to styles
+b171a01 HEAD@{11}: checkout: moving from images to develop
+36319b0 HEAD@{12}: commit: add info for my CV
+ed1817d HEAD@{13}: commit: add some photo
+b171a01 HEAD@{14}: checkout: moving from develop to images
+b171a01 HEAD@{15}: commit: create index.html file
+8620007 (HEAD -> main, origin/main, origin/HEAD) HEAD@{16}: checkout: moving from main to develop
+8620007 (HEAD -> main, origin/main, origin/HEAD) HEAD@{17}: commit: add readme file
+0038f99 HEAD@{18}: clone: from git@github.com:5nizzza/DevOps_online_Kiev_2021Q4.git
